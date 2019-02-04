@@ -1,6 +1,6 @@
 # youtube-recognizer-asp-core
 
-This project was created by third-party developer.
+This project was created by third-party developer. We forked it to show an example of using our API.
 
 Music recogniser app
 
