@@ -1,6 +1,6 @@
 # recognize-audio-asp-core-app
 
-This porject for this task description:
+This project was created by third-party developer.
 
 Music recogniser app
 
